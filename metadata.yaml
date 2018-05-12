@@ -1,0 +1,68 @@
+_repo: The-Sufistic-Quatrains-of-Omar-Khayyam_38511
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Heron-Allen, Edward
+    aliases:
+    - Heron-Allen, E. (Edward)
+    - Flavian
+    - Blayre, Christopher
+    birthdate: 1861
+    deathdate: 1943
+    gutenberg_agent_id: '39421'
+    url: http://www.gutenberg.org/2009/agents/39421
+  translators:
+  - agent_name: Nicolas, J. B. (Jean Baptiste)
+    aliases:
+    - Nicolas, Jean Baptiste
+    - Nicolas, Louis Jean Baptiste
+    birthdate: 1814
+    deathdate: 1875
+    gutenberg_agent_id: '39508'
+    url: http://www.gutenberg.org/2009/agents/39508
+  - agent_name: Whinfield, E. H. (Edward Henry)
+    alias: Whinfield, Edward Henry
+    birthdate: 1836
+    deathdate: 1922
+    gutenberg_agent_id: '39507'
+    url: http://www.gutenberg.org/2009/agents/39507
+  - agent_name: FitzGerald, Edward
+    alias: Purcell, Edward
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '138'
+    url: http://www.gutenberg.org/2009/agents/138
+    wikipedia: http://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+covers:
+- cover_type: archival
+  image_path: 38511-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Omar Khayyam
+    alias: Khayyam, Omar
+    birthdate: 1048
+    deathdate: 1122
+    gutenberg_agent_id: '1787'
+    url: http://www.gutenberg.org/2009/agents/1787
+    wikipedia: http://en.wikipedia.org/wiki/Omar_Khayy%C3%A1m
+  editor:
+    agent_name: Arnot, Robert
+    birthdate: 1860
+    gutenberg_agent_id: '35093'
+    url: http://www.gutenberg.org/2009/agents/35093
+description: ''
+gutenberg_issued: '2012-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38511'
+  lccn: '04000075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sufi poetry'
+- !lcsh 'FitzGerald, Edward, 1809-1883'
+- !lcc 'PK'
+title: The Sufistic Quatrains of Omar Khayyam
+url: http://www.gutenberg.org/ebooks/38511
